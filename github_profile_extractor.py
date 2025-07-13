@@ -1,8 +1,12 @@
 import requests
 from collections import Counter
 import json
+from dotenv import load_dotenv
+import os
 
-GITHUB_TOKEN = ""  # your github token here
+load_dotenv()
+
+GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
 HEADERS = {
     "Accept": "application/vnd.github.mercy-preview+json",
     "Authorization": f"token {GITHUB_TOKEN}"

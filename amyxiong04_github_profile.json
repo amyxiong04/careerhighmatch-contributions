@@ -1,0 +1,177 @@
+{
+    "github_username": "amyxiong04",
+    "top_languages": [
+        "Python",
+        "TypeScript",
+        "CSS",
+        "JavaScript",
+        "C#"
+    ],
+    "top_topics": [],
+    "public_repo_count": 10,
+    "repos": [
+        {
+            "repo_name": "Accelera",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "TypeScript",
+            "languages": [
+                "TypeScript",
+                "CSS",
+                "JavaScript"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2025-04-18T19:29:18Z",
+            "updated_at": "2025-05-02T19:29:05Z"
+        },
+        {
+            "repo_name": "amyxiong04.github.io",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": null,
+            "languages": [],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2025-04-20T05:06:32Z",
+            "updated_at": "2025-04-20T05:13:37Z"
+        },
+        {
+            "repo_name": "careerhighmatch-contributions",
+            "description": "Modular scripts and experiments supporting data profiling, feature extraction, and database integration for CareerHighMatch.ai.",
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "Python",
+            "languages": [
+                "Python"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2025-07-13T18:42:53Z",
+            "updated_at": "2025-07-13T18:46:11Z"
+        },
+        {
+            "repo_name": "CMGReadAndWrite",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "C#",
+            "languages": [
+                "C#"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2024-02-22T19:09:39Z",
+            "updated_at": "2024-02-22T19:29:45Z"
+        },
+        {
+            "repo_name": "ConsoleApp1",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "C#",
+            "languages": [
+                "C#"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2024-01-30T18:11:34Z",
+            "updated_at": "2024-01-30T18:12:54Z"
+        },
+        {
+            "repo_name": "leetcode",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "Python",
+            "languages": [
+                "Python"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2025-05-05T20:23:07Z",
+            "updated_at": "2025-06-18T21:32:43Z"
+        },
+        {
+            "repo_name": "Python-Scripts",
+            "description": "Miscellaneous python scripts designed for various purposes!",
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "Jupyter Notebook",
+            "languages": [
+                "Jupyter Notebook",
+                "Python"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2024-03-27T17:34:01Z",
+            "updated_at": "2025-04-01T23:58:04Z"
+        },
+        {
+            "repo_name": "Rain-in-Australia",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "Jupyter Notebook",
+            "languages": [
+                "Jupyter Notebook"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2023-03-10T22:59:35Z",
+            "updated_at": "2025-04-02T00:05:22Z"
+        },
+        {
+            "repo_name": "SporeSonality",
+            "description": "\ud83c\udf44 A whimsical personality quiz where you journey through a magical forest to discover your inner mushroom. Built with Next.js, Supabase, Tailwind, and Radix UI.",
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "TypeScript",
+            "languages": [
+                "TypeScript",
+                "CSS",
+                "JavaScript"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2025-05-06T06:35:42Z",
+            "updated_at": "2025-05-12T01:14:20Z"
+        },
+        {
+            "repo_name": "Wordle-ft.-Cat-Friend",
+            "description": null,
+            "stars": 0,
+            "forks": 0,
+            "watchers": 0,
+            "open_issues": 0,
+            "language_main": "Java",
+            "languages": [
+                "Java"
+            ],
+            "topics": [],
+            "is_fork": false,
+            "created_at": "2023-04-19T01:09:52Z",
+            "updated_at": "2023-04-19T01:27:40Z"
+        }
+    ]
+}
