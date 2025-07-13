@@ -1,6 +1,6 @@
 # CareerHighMatch.ai Contributions
 
-This repository contains my personal contributions, experiments, and development work for the **CareerHighMatch.ai** project.
+This repository contains my contributions, experiments, and development work for the **CareerHighMatch.ai** project.
 
 CareerHighMatch.ai aims to match individuals to ideal work environments, teams, and roles based on their interests, values, skills, and digital footprints (such as GitHub and YouTube profiles).
 
